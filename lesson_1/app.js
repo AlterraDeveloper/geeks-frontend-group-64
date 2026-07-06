@@ -48,6 +48,11 @@ console.log(optimaName);
 // 2015
 
 
+var a;
+let b;
+const abc = undefined;
+
+
 
 
 
